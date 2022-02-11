@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:-->
 
-I am currently working as a Data Science Intern at <a href=""https://www.sharpestminds.com/>[SharpestMinds</a>. I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.
+I am currently working as a Data Science Intern at [SharpestMinds](https://www.sharpestminds.com). I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.
 
-In the past, I have worked with Plan International Canada, Heart and Stroke Foundation and Cost Mountain College as a Web Developer.
+In the past, I have worked with [Plan International Canada](https://plancanada.ca/), [Heart and Stroke Foundation](https://www.heartandstroke.ca/) and [Cost Mountain College](https://www.coastmountaincollege.ca/) as a Web Developer.
 
 ### Things I'm good at 🔥
 **Domain**: Natural Language Processing, Image Processing, Machine Learning, Deep Learning, Data Science, Data Wrangling, Data Visualization, and Data Warehousing.
