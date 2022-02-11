@@ -3,14 +3,26 @@
 <!--
 **tanupunjani/tanupunjani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently working as a Data Science Intern at <a href=""https://www.sharpestminds.com/>[SharpestMinds</a>. I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.
+
+In the past, I have worked with Plan International Canada, Heart and Stroke Foundation and Cost Mountain College as a Web Developer.
+
+### Things I'm good at 🔥
+**Domain**: Natural Language Processing, Image Processing, Machine Learning, Deep Learning, Data Science, Data Wrangling, Data Visualization, and Data Warehousing.
+
+**Languages**: Python, SQL, HTML, CSS, JavaScript.
+
+**Framework**: Flask, <!--Ruby on Rails, AngularJS, React-->, Bootstrap.
+
+**Libraries & Tools**: Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Tensorflow, Keras.
+
+**Data Analysis**: Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods.
+
+
+### 📫 How to reach me: 
+
+<a href="https://www.linkedin.com/in/tanvi-punjani-49493490/" rel="nofollow"><img src="https://camo.githubusercontent.com/7b192dd5706fb493cac4efdb837b8649e6f24188f962c65510c5ab1dcba915cd/68747470733a2f2f696d672e69636f6e73382e636f6d2f646f6f646c652f36342f3030303030302f6c696e6b6564696e2d636972636c65642e706e67" data-canonical-src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png" style="max-width: 100%;"></a> <a href="https://medium.com/@tanvipunjani" rel="nofollow"><img src="https://camo.githubusercontent.com/8548e0174b1f4a4c387ab781988493b69f1b6bd4505b27654c3b7ef1c2574e5f/68747470733a2f2f696d672e69636f6e73382e636f6d2f6475736b2f36342f3030303030302f6d656469756d2d6e65772e706e67" data-canonical-src="https://img.icons8.com/dusk/64/000000/medium-new.png" style="max-width: 100%;"></a>
+
+
