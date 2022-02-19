@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-I am currently working as a Data Science Fellow at [SharpestMinds](https://www.sharpestminds.com). I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.
+I am a Data Science Fellow at [SharpestMinds](https://www.sharpestminds.com). I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.
 
 In the past, I have worked with [Plan International Canada](https://plancanada.ca/), [Heart and Stroke Foundation](https://www.heartandstroke.ca/) and [Cost Mountain College](https://www.coastmountaincollege.ca/) as a Web Developer.
 
