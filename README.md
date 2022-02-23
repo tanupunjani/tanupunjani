@@ -14,7 +14,7 @@ In the past, I have worked with [Plan International Canada](https://plancanada.c
 
 **Languages**: Python, SQL, HTML, CSS, JavaScript.
 
-**ML Algorithms**: Linear Regression, Logistic Regression, SVM, Decision Trees, Random Forest, XGBoost, LightGBM, K-Means,PCA, Clustering
+**ML Algorithms**: Linear Regression, Logistic Regression, SVM, Decision Trees, Random Forest, XGBoost, LightGBM, K-Means,PCA, Clustering.
 
 **Framework**: Flask, Bootstrap.
 
