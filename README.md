@@ -14,7 +14,9 @@ In the past, I have worked with [Plan International Canada](https://plancanada.c
 
 **Languages**: Python, SQL, HTML, CSS, JavaScript.
 
-**Framework**: Flask, <!--Ruby on Rails, AngularJS, React-->, Bootstrap.
+**ML Algorithms**: Linear Regression, Logistic Regression, SVM, Decision Trees, Random Forest, XGBoost, LightGBM, K-Means,PCA, Clustering
+
+**Framework**: Flask, Bootstrap.
 
 **Libraries & Tools**: Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Tensorflow, Keras.
 
