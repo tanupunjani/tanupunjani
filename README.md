@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-I am a Research Data Scientist / Senior Data Analyst at Centre for Integrated Care (https://stjoescic.ca/). I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.
+I am a Research Data Scientist / Senior Data Analyst at Centre for Integrated Care (https://stjoescic.ca/). I come with an extensive experience of working with different technologies including Data Science, Machine Learning, Deep Learning and Web Development.
 
 In the past, I have worked with Intuition Consultancies Inc (https://www.intuitionconsultanciesinc.ca/) as a Data Scientist and with [Plan International Canada](https://plancanada.ca/), [Heart and Stroke Foundation](https://www.heartandstroke.ca/) and [Coast Mountain College](https://www.coastmountaincollege.ca/) as a Frontend Engineer.
 
