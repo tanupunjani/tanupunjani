@@ -1,30 +1,27 @@
-### Hi there 👋
+# Hi there 👋 I'm Tanvi
 
-<!--
-**tanupunjani/tanupunjani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Applied Data Scientist & Technical Lead** at The Research Institute of St. Joe's Hamilton, where I work with real-world Epic EHR data in a regulated (PHIPA) hospital environment — building clinical NLP pipelines, prediction models, and the data infrastructure behind multi-site health research.
 
-Here are some ideas to get you started:-->
+**Highlights of what I've shipped:**
+- 🏥 Led end-to-end delivery of a **frailty prediction model** adopted by Hamilton Health Sciences, deployed to physicians inside Epic via API integration
+- 💊 Building a **clinical NLP pipeline** for medication event extraction (drug, dose, route, frequency, status) — progressing from rule-based → transformer → local LLM with RAG normalization
+- 🔒 Designed **PHI de-identification workflows** for clinical notes (rule-based, transformer, and Presidio layers)
+- 📊 Delivered the complete **statistical analysis for a three-arm RCT** (n=253): ANCOVA with multiple imputation, GEE, longitudinal transition models
 
-I am a Research Data Scientist / Senior Data Analyst at St. Joseph's Healthcare Hamilton, Centre for Integrated Care (https://stjoescic.ca/). I come with an extensive experience of working with different technologies including Data Science, Machine Learning, Deep Learning and Web Development.
-
-In the past, I have worked with Intuition Consultancies Inc (https://www.intuitionconsultanciesinc.ca/) as a Data Scientist and with [Plan International Canada](https://plancanada.ca/), [Heart and Stroke Foundation](https://www.heartandstroke.ca/) and [Coast Mountain College](https://www.coastmountaincollege.ca/) as a Frontend Engineer.
+Previously: Senior Data Analyst at St. Joseph's Healthcare Hamilton, Data Scientist at Intuition Consultancies, Data Engineer at [Plan International Canada](https://plancanada.ca/), and Frontend Engineer at [Heart and Stroke Foundation](https://www.heartandstroke.ca/) and [Coast Mountain College](https://www.coastmountaincollege.ca/).
 
 ### Things I'm good at 🔥
-**Domain**: Natural Language Processing, Image Processing, Machine Learning, Deep Learning, Data Science, Data Wrangling, Data Visualization, and Data Warehousing.
 
-**Languages**: Python, SQL, HTML, CSS, JavaScript.
+**Domain:** Clinical NLP, Real-World EHR Data (Epic Clarity), Machine Learning, Biostatistics, Data Quality & Governance (PHIPA), De-identification
 
-**ML Algorithms**: Linear Regression, Logistic Regression, SVM, Decision Trees, Random Forest, XGBoost, LightGBM, K-Means,PCA, Clustering.
+**Languages:** Python, SQL (Epic Clarity / T-SQL), HTML, CSS, JavaScript
 
-**Framework**: Flask, Bootstrap.
+**NLP & ML:** BERT/RoBERTa fine-tuning, spaCy, NLTK, HuggingFace, FAISS, local LLMs (Ollama), RAG, XGBoost, scikit-learn, model evaluation
 
-**Libraries & Tools**: Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Tensorflow, Keras.
+**Statistics:** ANCOVA, multiple imputation (MICE / Rubin's Rules), GEE, regression methods, RCT analysis
 
-**Data Analysis**: Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods.
+**Platforms & Tools:** FastAPI, Flask, Docker, Azure, AWS, Git, CI/CD, Power BI, Tableau, Streamlit
 
+### 📫 How to reach me
 
-### 📫 How to reach me: 
-
-<a href="https://www.linkedin.com/in/tanvi-punjani-49493490/" rel="nofollow"><img src="https://camo.githubusercontent.com/7b192dd5706fb493cac4efdb837b8649e6f24188f962c65510c5ab1dcba915cd/68747470733a2f2f696d672e69636f6e73382e636f6d2f646f6f646c652f36342f3030303030302f6c696e6b6564696e2d636972636c65642e706e67" data-canonical-src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png" style="max-width: 100%;"></a> <a href="https://medium.com/@tanvipunjani" rel="nofollow"><img src="https://camo.githubusercontent.com/8548e0174b1f4a4c387ab781988493b69f1b6bd4505b27654c3b7ef1c2574e5f/68747470733a2f2f696d672e69636f6e73382e636f6d2f6475736b2f36342f3030303030302f6d656469756d2d6e65772e706e67" data-canonical-src="https://img.icons8.com/dusk/64/000000/medium-new.png" style="max-width: 100%;"></a>
-
-
+[LinkedIn](https://www.linkedin.com/in/tanvi-punjani-49493490/) · [Medium](https://medium.com/@tanvipunjani) · tanupunjani@gmail.com
