@@ -1,27 +1,17 @@
-# Hi there 👋 I'm Tanvi
+# Tanvi Punjani
 
-I'm an **Applied Data Scientist & Technical Lead** at The Research Institute of St. Joe's Hamilton, where I work with real-world Epic EHR data in a regulated (PHIPA) hospital environment — building clinical NLP pipelines, prediction models, and the data infrastructure behind multi-site health research.
+**Building intelligent software from complex ideas.**
 
-**Highlights of what I've shipped:**
-- 🏥 Led end-to-end delivery of a **frailty prediction model** adopted by Hamilton Health Sciences, deployed to physicians inside Epic via API integration
-- 💊 Building a **clinical NLP pipeline** for medication event extraction (drug, dose, route, frequency, status) — progressing from rule-based → transformer → local LLM with RAG normalization
-- 🔒 Designed **PHI de-identification workflows** for clinical notes (rule-based, transformer, and Presidio layers)
-- 📊 Delivered the complete **statistical analysis for a three-arm RCT** (n=253): ANCOVA with multiple imputation, GEE, longitudinal transition models
+I am a software and research technology professional with experience in frontend development, enterprise web work, healthcare research systems, Python, and SQL. At The Research Institute of St. Joe's Hamilton, my official role is **Senior Data Analyst**. I work on clinical data definitions, computational scoring, validation, and research workflows with clinical and technical partners. Earlier, I worked as a **Frontend Data Engineer** at Plan International Canada and a **Frontend Engineer** at Coast Mountain College.
 
-Previously: Senior Data Analyst at St. Joseph's Healthcare Hamilton, Data Scientist at Intuition Consultancies, Data Engineer at [Plan International Canada](https://plancanada.ca/), and Frontend Engineer at [Heart and Stroke Foundation](https://www.heartandstroke.ca/) and [Coast Mountain College](https://www.coastmountaincollege.ca/).
+I also build independent products that let me explore the full path from a user problem to a working, tested system:
 
-### Things I'm good at 🔥
+- **PD Bridge** — my flagship Parkinson’s-focused symptom-capture and appointment-preparation prototype. It uses fictional data, includes browser and SwiftUI iPhone/Apple Watch work, and is still under development. A public engineering case study is being prepared.
+- **Clinical Medication Extraction** — a Python research prototype for extracting medication events from text. It includes rules, local model experiments, and evaluation. The public demo bundle uses the rules path; it is not clinical software. [Repository](https://github.com/tanupunjani/clinical-med-extraction).
+- **Friends Full House** — a two-screen party game with host controls, synchronized TV display, game-state logic, and automated tests. A public source strategy is under review.
 
-**Domain:** Clinical NLP, Real-World EHR Data (Epic Clarity), Machine Learning, Biostatistics, Data Quality & Governance (PHIPA), De-identification
+I am especially interested in full-stack software, research software, and applied AI engineering where careful problem framing and strong implementation both matter.
 
-**Languages:** Python, SQL (Epic Clarity / T-SQL), HTML, CSS, JavaScript
+**Research publication:** Co-author of a [2026 Frontiers in Pharmacology study on Epic EMR data for pharmacoepidemiologic research](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1812502/full). My credited contributions include software, formal analysis, data curation, and validation.
 
-**NLP & ML:** BERT/RoBERTa fine-tuning, spaCy, NLTK, HuggingFace, FAISS, local LLMs (Ollama), RAG, XGBoost, scikit-learn, model evaluation
-
-**Statistics:** ANCOVA, multiple imputation (MICE / Rubin's Rules), GEE, regression methods, RCT analysis
-
-**Platforms & Tools:** FastAPI, Flask, Docker, Azure, AWS, Git, CI/CD, Power BI, Tableau, Streamlit
-
-### 📫 How to reach me
-
-[LinkedIn](https://www.linkedin.com/in/tanvi-punjani-49493490/) · [Medium](https://medium.com/@tanvipunjani) · tanupunjani@gmail.com
+[LinkedIn](https://www.linkedin.com/in/tanvipunjani/) · [Email](mailto:tanupunjani@gmail.com)
