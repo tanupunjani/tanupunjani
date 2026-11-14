@@ -1,25 +1,19 @@
 # Tanvi Punjani
 
+**Software engineer | Frontend development, healthcare research technology, and independent products**
 
-**Building intelligent software from complex ideas.**
+I have over five years of professional frontend development experience at Coast Mountain College and Plan International Canada. I designed, developed, tested, and improved websites and web applications using JavaScript, HTML, and CSS, translating requirements into working interfaces and functionality. Earlier records use the titles **Frontend Engineer** at Coast Mountain College and **Frontend Data Engineer** at Plan International Canada; my work in those roles included frontend software development.
 
+I now work as a **Senior Data Analyst** at The Research Institute of St. Joe's Hamilton. I develop and validate computational research workflows with Python and SQL, including clinical data definitions and scoring logic, in collaboration with researchers, clinicians, and technical teams.
 
-I am a software and research technology professional with experience in frontend development, enterprise web work, healthcare research systems, Python, and SQL. At The Research Institute of St. Joe's Hamilton, my official role is **Senior Data Analyst**. I work on clinical data definitions, computational scoring, validation, and research workflows with clinical and technical partners. Earlier, I worked as a **Frontend Data Engineer** at Plan International Canada and a **Frontend Engineer** at Coast Mountain College.
+## Selected work
 
+- **[PD Bridge](https://tanupunjani.github.io/pd-bridge-case-study/)** — my flagship independent Parkinson's-focused product in development. The public engineering case study documents a fictional-data browser prototype, separate SwiftUI iPhone/Apple Watch work, architecture, local tests, and current limitations. It has not been clinically validated or released for patient use.
+- **[Clinical Medication Extraction](https://github.com/tanupunjani/clinical-med-extraction)** — a Python research prototype for medication-event extraction from text. It includes a rules path, local model experiments, and evaluation tooling. The public demo runs the rules path and is not clinical software.
+- **Friends Full House** — a two-screen party game with host controls, synchronized TV display, game-state logic, and automated tests. Public source sharing is under review.
 
-I also build independent products that let me explore the full path from a user problem to a working, tested system:
-
-
-- **[PD Bridge](https://tanupunjani.github.io/pd-bridge-case-study/)** — my flagship Parkinson’s-focused symptom-capture and appointment-preparation prototype. The public engineering case study shows fictional-data browser and SwiftUI iPhone/Apple Watch work, technical decisions, testing, and current limitations.
-- **Clinical Medication Extraction** — a Python research prototype for extracting medication events from text. It includes rules, local model experiments, and evaluation. The public demo bundle uses the rules path; it is not clinical software. [Repository](https://github.com/tanupunjani/clinical-med-extraction).
-- **Friends Full House** — a two-screen party game with host controls, synchronized TV display, game-state logic, and automated tests. A public source strategy is under review.
-
-
-I am especially interested in full-stack software, research software, and applied AI engineering where careful problem framing and strong implementation both matter.
-
+I am interested in frontend and full-stack product engineering, research software, healthcare technology, and applied AI. My product work is where I am strengthening modern application architecture and AI integration skills.
 
 **Research publication:** Co-author of a [2026 Frontiers in Pharmacology study on Epic EMR data for pharmacoepidemiologic research](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1812502/full). My credited contributions include software, formal analysis, data curation, and validation.
 
-
 [LinkedIn](https://www.linkedin.com/in/tanvipunjani/) · [Email](mailto:tanupunjani@gmail.com)
-
