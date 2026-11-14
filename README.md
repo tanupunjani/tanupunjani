@@ -2,7 +2,7 @@
 
 **Software engineer | Frontend development, healthcare research technology, and independent products**
 
-I have over five years of professional frontend development experience at Coast Mountain College and Plan International Canada. I designed, developed, tested, and improved websites and web applications using JavaScript, HTML, and CSS, translating requirements into working interfaces and functionality. Earlier records use the titles **Frontend Engineer** at Coast Mountain College and **Frontend Data Engineer** at Plan International Canada; my work in those roles included frontend software development.
+I have over five years of professional frontend software development experience at Coast Mountain College and Plan International Canada, where I designed, developed, tested, and improved websites and web applications using JavaScript, HTML, and CSS. My work included translating business requirements into functional interfaces, implementing frontend features, and improving digital experiences.
 
 I now work as a **Senior Data Analyst** at The Research Institute of St. Joe's Hamilton. I develop and validate computational research workflows with Python and SQL, including clinical data definitions and scoring logic, in collaboration with researchers, clinicians, and technical teams.
 
