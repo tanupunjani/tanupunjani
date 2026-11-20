@@ -29,9 +29,8 @@ Designed and developed the computational implementation of a **71-deficit Electr
 - Translated clinical research definitions into extraction, scoring and denominator logic using diagnoses, laboratory results and flowsheets.
 - Handled missing observations, time-dependent definitions, edge cases and analytical validation; documented decisions and tested output consistency.
 - Owned the technical path from initial specifications and data discovery through implementation, quality assurance, research handoff and iteration.
-- Formally handed over the implementation code to Hamilton Health Sciences, where it was adopted as a foundation for further frailty-index development; this does not establish clinical deployment.
+- Formally handed over the implementation code to Hamilton Health Sciences, where it was adopted as a foundation for further frailty-index development.
 
-**Research project, not a claimed clinical deployment.** Institutional source code and patient-level information are not public.
 
 ### QT-MACE — clinical analytics, statistical modeling and ML research
 
@@ -41,8 +40,6 @@ Lead the analytical/ML research workstream examining QT-prolonging medication ex
 - Work with regression and gradient-boosting methods and explore offline clinical NLP and LLM-assisted text-extraction methods in **authorized research settings**.
 - Work end to end with clinical researchers: study discovery → data acquisition and cleaning → statistical analysis → model exploration → interpretation and review.
 - Provide guidance and training to research and co-op students on data cleaning, statistics, validation, reproducible analysis and responsible clinical AI experimentation.
-
-**No claim of a deployed predictive model or production LLM clinical system.**
 
 ### Peer-reviewed publication
 
