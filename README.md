@@ -19,7 +19,7 @@ I build with **data, code, design, and curiosity**. My professional work spans h
 - Translate complex HIREB research proposals into technical data specifications, Epic Clarity/Caboodle discovery and extraction, cohort and clinical-measure definitions, complex SQL reports, and analysis-ready datasets.
 - Deliver analytical projects from data discovery through exploratory data analysis, cleaning, validation, quality assurance, statistical analysis, predictive-modeling experimentation, interpretation, and final reporting.
 - Advise physicians, investigators, and clinical data science collaborators on research analytics, appropriate ML methods, NLP/LLM feasibility, data limitations, and practical technical solutions.
-- Explore offline NLP and LLM methods in authorized research environments to extract, structure, and translate clinical narratives. This work does not use public AI services or disclose real clinical notes outside approved environments; it is research, not a deployed clinical AI system.
+- Explore offline NLP and LLM methods in authorized research environments to extract, structure, and translate clinical narratives.
 - Lead analytical workstreams and coordinate with research students, statisticians, and multidisciplinary collaborators; mentor contributors on data quality, reproducibility, and responsible AI methods.
 
 ### Electronic Frailty Index — end-to-end technical ownership
