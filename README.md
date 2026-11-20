@@ -14,6 +14,14 @@ I build with **data, code, design, and curiosity**. My professional work spans h
 
 ## 🧠 Healthcare analytics and research leadership
 
+### Clinical research delivery and technical advisory work
+
+- Translate complex HIREB research proposals into technical data specifications, Epic Clarity/Caboodle discovery and extraction, cohort and clinical-measure definitions, complex SQL reports, and analysis-ready datasets.
+- Deliver analytical projects from data discovery through exploratory data analysis, cleaning, validation, quality assurance, statistical analysis, predictive-modeling experimentation, interpretation, and final reporting.
+- Advise physicians, investigators, and clinical data science collaborators on research analytics, appropriate ML methods, NLP/LLM feasibility, data limitations, and practical technical solutions.
+- Explore offline NLP and LLM methods in authorized research environments to extract, structure, and translate clinical narratives. This work does not use public AI services or disclose real clinical notes outside approved environments; it is research, not a deployed clinical AI system.
+- Lead analytical workstreams and coordinate with research students, statisticians, and multidisciplinary collaborators; mentor contributors on data quality, reproducibility, and responsible AI methods.
+
 ### Electronic Frailty Index — end-to-end technical ownership
 
 Designed and developed the computational implementation of a **71-deficit Electronic Frailty Index** for an approximately **27,521-patient research cohort**, using SQL, Python, and structured Epic EHR data.
@@ -21,7 +29,7 @@ Designed and developed the computational implementation of a **71-deficit Electr
 - Translated clinical research definitions into extraction, scoring and denominator logic using diagnoses, laboratory results and flowsheets.
 - Handled missing observations, time-dependent definitions, edge cases and analytical validation; documented decisions and tested output consistency.
 - Owned the technical path from initial specifications and data discovery through implementation, quality assurance, research handoff and iteration.
-- Shared implementation code with a Hamilton Health Sciences researcher to support a corresponding frailty-index development effort.
+- Formally handed over the implementation code to Hamilton Health Sciences, where it was adopted as a foundation for further frailty-index development; this does not establish clinical deployment.
 
 **Research project, not a claimed clinical deployment.** Institutional source code and patient-level information are not public.
 
@@ -30,7 +38,7 @@ Designed and developed the computational implementation of a **71-deficit Electr
 Lead the analytical/ML research workstream examining QT-prolonging medication exposures and major adverse cardiovascular outcomes, with research data involving approximately **150,000 patients** (reported project scale), alongside research statisticians, physicians, and McMaster University collaborators.
 
 - Develop research cohorts and analytical datasets; resolve medication, event-timing, quality and data-definition challenges across complex EHR sources.
-- Work with regression and gradient-boosting methods and explore clinical NLP and LLM-assisted text-extraction methods in **research settings**.
+- Work with regression and gradient-boosting methods and explore offline clinical NLP and LLM-assisted text-extraction methods in **authorized research settings**.
 - Work end to end with clinical researchers: study discovery → data acquisition and cleaning → statistical analysis → model exploration → interpretation and review.
 - Provide guidance and training to research and co-op students on data cleaning, statistics, validation, reproducible analysis and responsible clinical AI experimentation.
 
