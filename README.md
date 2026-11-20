@@ -72,7 +72,6 @@ I independently designed and developed PD Bridge through a browser prototype and
 - **[Case-study source repository](https://github.com/tanupunjani/pd-bridge-case-study)**
 - [Privacy policy](https://tanupunjani.github.io/pd-bridge-case-study/privacy.html) · [Support page](https://tanupunjani.github.io/pd-bridge-case-study/support.html)
 
-*PD Bridge is a pre-release, fictional-data prototype, not a clinically validated or App Store-released medical product. It does not provide live AI, automatic fall detection, clinical monitoring, or diagnosis; experimental Watch code is not embedded in the current iPhone Release app.*
 
 ---
 
